@@ -10,3 +10,10 @@
 ## زيارة الموقع
 
 https://khutta.vercel.app/
+
+## الروابط
+
+- [معهد مرتقى](https://www.academy.murtaqaa.com/)
+- [المسار الانتقائي](https://www.academy.murtaqaa.com/selective_program/)
+- [تطبيق مراقي](https://maraqi.app/)
+
